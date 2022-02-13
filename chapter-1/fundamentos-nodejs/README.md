@@ -1,0 +1,13 @@
+# HTTP METHODS:
+
+- GET
+- POST
+- PUT
+- PATCH
+- DELETE
+
+# TYPES PARAMS:
+
+- BODY PARAMS: JSON
+- QUERY PARAMS: localhost:3000?page=1
+- ROUTE PARAMS: localhost:3000/course/:id
